@@ -1,0 +1,72 @@
+{
+  "id": 1947923155,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-03",
+    "date:inception_upper": "2025-02-03",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-03",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2025-02-03",
+    "flysfo:estimated_timestamp": 1738634160,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS9565",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-RDM",
+    "flysfo:scheduled_timestamp": 1738631400,
+    "flysfo:timestamp": 1738634160,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-121.157137,44.259811",
+    "geom:latitude": 40.9389005,
+    "geom:longitude": -121.76404,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102530507,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250203-D-ASA-9565",
+    "sfomuseum:flight_number": [
+      "ASA9565",
+      "AS9565"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1738686394,
+    "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1947923155,
+        "flight_id": 1947923155
+      }
+    ],
+    "wof:id": 1947923155,
+    "wof:involves": [
+      102530507,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1738686394,
+    "wof:name": "AS9565 (SFO-RDM)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -121.157137,
+    44.259811
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-121.157137,44.259811]],"type":"MultiPoint"}
+}
