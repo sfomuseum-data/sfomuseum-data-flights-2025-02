@@ -1,0 +1,72 @@
+{
+  "id": 1947959859,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-17",
+    "date:inception_upper": "2025-02-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "B6",
+    "flysfo:date": "2025-02-17",
+    "flysfo:estimated_timestamp": 1739782800,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "B68378",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-FLL",
+    "flysfo:scheduled_timestamp": 1739779200,
+    "flysfo:timestamp": 1739782800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,26.074860,-80.138518,37.617990",
+    "geom:latitude": 31.846425,
+    "geom:longitude": -101.2547305,
+    "iata:airline": "B6",
+    "icao:airline": "JBU",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:arrival_id": 102530841,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250217-D-JBU-8378",
+    "sfomuseum:flight_number": [
+      "JBU8378",
+      "B68378"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1740001714,
+    "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1947959859,
+        "flight_id": 1947959859
+      }
+    ],
+    "wof:id": 1947959859,
+    "wof:involves": [
+      102530841,
+      102527513,
+      1159284583,
+      -1
+    ],
+    "wof:lastmodified": 1740001714,
+    "wof:name": "B68378 (SFO-FLL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    26.07486,
+    -80.138518,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.138518,26.07486]],"type":"MultiPoint"}
+}

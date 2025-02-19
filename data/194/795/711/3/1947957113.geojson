@@ -1,0 +1,72 @@
+{
+  "id": 1947957113,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-17",
+    "date:inception_upper": "2025-02-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-02-17",
+    "flysfo:estimated_timestamp": 1739851200,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA6961",
+    "flysfo:gate": "",
+    "flysfo:journey": "GJT-SFO",
+    "flysfo:scheduled_timestamp": 1739851200,
+    "flysfo:timestamp": 1739851200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-108.527872,39.121220",
+    "geom:latitude": 38.369605,
+    "geom:longitude": -115.4494075,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532065,
+    "sfomuseum:flight_id": "20250217-A-UAL-6961",
+    "sfomuseum:flight_number": [
+      "UAL6961",
+      "UA6961"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1740000887,
+    "wof:geomhash": "885c4de9460c22786ce1477efbdd0753",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1947957113,
+        "flight_id": 1947957113
+      }
+    ],
+    "wof:id": 1947957113,
+    "wof:involves": [
+      102527513,
+      102532065,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1740000887,
+    "wof:name": "UA6961 (GJT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -108.527872,
+    39.12122
+  ],
+  "geometry": {"coordinates":[[-108.527872,39.12122],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
