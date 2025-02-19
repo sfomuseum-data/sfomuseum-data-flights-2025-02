@@ -2,10 +2,12 @@
   "id": 1947946319,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-18",
+    "date:cessation_upper": "2025-02-18",
     "date:inception_lower": "2025-02-18",
     "date:inception_upper": "2025-02-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-18",
+    "edtf:cessation": "2025-02-18T10:16:20-08:00",
+    "edtf:inception": "2025-02-18T20:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250218-A-QFA-4526",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N994AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92580868",
+      "swim:gufi": "KT69380300"
+    },
     "wof:country": "US",
     "wof:created": 1739996639,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1947946319,
     "wof:involves": [
+      1159289411,
       102527513,
       102528659,
       1159283849,
       1947304309,
       1159285043
     ],
-    "wof:lastmodified": 1739996639,
+    "wof:lastmodified": 1739998947,
     "wof:name": "AA855 (CLT-SFO)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

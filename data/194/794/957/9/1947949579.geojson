@@ -2,10 +2,12 @@
   "id": 1947949579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-18",
+    "date:cessation_upper": "2025-02-18",
     "date:inception_lower": "2025-02-18",
     "date:inception_upper": "2025-02-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-18",
+    "edtf:cessation": "2025-02-18T14:27:26Z",
+    "edtf:inception": "2025-02-18T02:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.9627305,
     "geom:longitude": -4.221753499999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541737,
@@ -48,6 +52,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92522618",
+      "swim:gufi": "KO82852200"
+    },
     "wof:country": "US",
     "wof:created": 1739997697,
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1947949579,
     "wof:involves": [
-      102527513,
-      102541737,
       1159285413,
-      1947304131
+      1947304131,
+      1159289985,
+      102527513,
+      102541737
     ],
-    "wof:lastmodified": 1739997697,
+    "wof:lastmodified": 1739998974,
     "wof:name": "UA862 (HKG-SFO)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",

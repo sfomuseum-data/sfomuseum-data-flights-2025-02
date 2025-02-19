@@ -2,10 +2,12 @@
   "id": 1947951437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-18",
+    "date:cessation_upper": "2025-02-18",
     "date:inception_lower": "2025-02-18",
     "date:inception_upper": "2025-02-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-18",
+    "edtf:cessation": "2025-02-18T21:25:59Z",
+    "edtf:inception": "2025-02-18T07:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:date": "2025-02-18",
@@ -34,6 +36,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +54,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92529788"
+    },
     "wof:country": "US",
     "wof:created": 1739998285,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -88,7 +97,7 @@
       1159284127,
       1947304097
     ],
-    "wof:lastmodified": 1739998285,
+    "wof:lastmodified": 1739998957,
     "wof:name": "CX873 (SFO-HKG)",
     "wof:parent_id": 1947304097,
     "wof:placetype": "custom",
