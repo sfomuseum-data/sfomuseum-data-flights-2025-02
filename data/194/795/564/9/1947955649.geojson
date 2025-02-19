@@ -2,10 +2,12 @@
   "id": 1947955649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-18",
+    "date:cessation_upper": "2025-02-18",
     "date:inception_lower": "2025-02-17",
     "date:inception_upper": "2025-02-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-17",
+    "edtf:cessation": "2025-02-18T03:30:25Z",
+    "edtf:inception": "2025-02-17T22:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92506829"
+    },
     "wof:country": "US",
     "wof:created": 1740000441,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -94,7 +102,7 @@
       1947304299,
       1159283813
     ],
-    "wof:lastmodified": 1740000441,
+    "wof:lastmodified": 1740002232,
     "wof:name": "HA12 (HNL-SFO)",
     "wof:parent_id": 1947304299,
     "wof:placetype": "custom",

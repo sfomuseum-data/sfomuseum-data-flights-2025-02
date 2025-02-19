@@ -2,10 +2,12 @@
   "id": 1947960283,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-18",
+    "date:cessation_upper": "2025-02-18",
     "date:inception_lower": "2025-02-17",
     "date:inception_upper": "2025-02-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-17",
+    "edtf:cessation": "2025-02-18T10:56:26Z",
+    "edtf:inception": "2025-02-17T18:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:date": "2025-02-17",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92483205"
+    },
     "wof:country": "US",
     "wof:created": 1740001836,
     "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
@@ -88,7 +93,7 @@
       1159286259,
       1947304133
     ],
-    "wof:lastmodified": 1740001836,
+    "wof:lastmodified": 1740002208,
     "wof:name": "SQ31 (SFO-SIN)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

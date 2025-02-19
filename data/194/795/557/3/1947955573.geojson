@@ -2,10 +2,12 @@
   "id": 1947955573,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-17",
+    "date:cessation_upper": "2025-02-17",
     "date:inception_lower": "2025-02-17",
     "date:inception_upper": "2025-02-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-17",
+    "edtf:cessation": "2025-02-17T22:16:00Z",
+    "edtf:inception": "2025-02-17T21:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2025-02-17",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92497598"
+    },
     "wof:country": "US",
     "wof:created": 1740000419,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,7 +96,7 @@
       1159284401,
       1947304095
     ],
-    "wof:lastmodified": 1740000419,
+    "wof:lastmodified": 1740002232,
     "wof:name": "F94593 (LAX-SFO)",
     "wof:parent_id": 1947304095,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1947955555,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-17",
+    "date:cessation_upper": "2025-02-17",
     "date:inception_lower": "2025-02-17",
     "date:inception_upper": "2025-02-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-17",
+    "edtf:cessation": "2025-02-17T21:27:00Z",
+    "edtf:inception": "2025-02-17T19:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2025-02-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -48,6 +52,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92481196",
+      "swim:gufi": "KA62449200"
+    },
     "wof:country": "US",
     "wof:created": 1740000414,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1947955555,
     "wof:involves": [
+      1947304091,
+      1377564295,
       102527513,
       102526751,
-      1159284401,
-      1947304091
+      1159284401
     ],
-    "wof:lastmodified": 1740000414,
+    "wof:lastmodified": 1740002232,
     "wof:name": "F92637 (PHX-SFO)",
     "wof:parent_id": 1947304091,
     "wof:placetype": "custom",
