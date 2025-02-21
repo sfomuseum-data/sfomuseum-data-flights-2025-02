@@ -102,13 +102,13 @@
     "wof:id": 1947953645,
     "wof:involves": [
       1159285081,
-      1159289411,
       102527513,
       102534365,
       1159283849,
-      1947304309
+      1947304309,
+      1159289411
     ],
-    "wof:lastmodified": 1740002207,
+    "wof:lastmodified": 1740180912,
     "wof:name": "AA2305 (JFK-SFO)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

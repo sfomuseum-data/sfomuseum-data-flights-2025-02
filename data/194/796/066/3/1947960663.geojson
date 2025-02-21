@@ -97,14 +97,14 @@
     ],
     "wof:id": 1947960663,
     "wof:involves": [
-      1528104575,
       102528779,
       102527513,
       1159285413,
       1947304523,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1740002211,
+    "wof:lastmodified": 1740180919,
     "wof:name": "UA1763 (SFO-RDU)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

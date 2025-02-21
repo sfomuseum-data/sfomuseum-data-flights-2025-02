@@ -100,14 +100,14 @@
     ],
     "wof:id": 1947960595,
     "wof:involves": [
-      1159289871,
       102533269,
       102527513,
       1159285413,
       1947304597,
-      1159283697
+      1159283697,
+      1159289871
     ],
-    "wof:lastmodified": 1740002210,
+    "wof:lastmodified": 1740180918,
     "wof:name": "UA1387 (SFO-SEA)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

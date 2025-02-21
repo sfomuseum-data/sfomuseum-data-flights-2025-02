@@ -101,14 +101,14 @@
     ],
     "wof:id": 1947960589,
     "wof:involves": [
+      1528104575,
       102533243,
       102527513,
       1159285413,
       1947304527,
-      1159285485,
-      1528104575
+      1159285485
     ],
-    "wof:lastmodified": 1740002210,
+    "wof:lastmodified": 1740180918,
     "wof:name": "UA1370 (SFO-TPA)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

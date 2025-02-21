@@ -100,14 +100,14 @@
     ],
     "wof:id": 1947956613,
     "wof:involves": [
+      1528104575,
       102527513,
       102532251,
       1159285413,
       1763588337,
-      1159283597,
-      1528104575
+      1159283597
     ],
-    "wof:lastmodified": 1740002235,
+    "wof:lastmodified": 1740180947,
     "wof:name": "UA1247 (PDX-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

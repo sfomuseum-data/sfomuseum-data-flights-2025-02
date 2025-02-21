@@ -96,13 +96,13 @@
     ],
     "wof:id": 1947960299,
     "wof:involves": [
+      1947304267,
       1159289871,
       102533795,
       102527513,
-      1159285591,
-      1947304267
+      1159285591
     ],
-    "wof:lastmodified": 1740002208,
+    "wof:lastmodified": 1740180915,
     "wof:name": "WN193 (SFO-LAX)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",

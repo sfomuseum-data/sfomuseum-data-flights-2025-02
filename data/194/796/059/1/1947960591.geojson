@@ -101,14 +101,14 @@
     ],
     "wof:id": 1947960591,
     "wof:involves": [
+      1159283697,
       1159289985,
       102530049,
       102527513,
       1159285413,
-      1947304487,
-      1159283697
+      1947304487
     ],
-    "wof:lastmodified": 1740002210,
+    "wof:lastmodified": 1740180918,
     "wof:name": "UA1372 (SFO-EWR)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

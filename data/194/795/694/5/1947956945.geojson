@@ -99,14 +99,14 @@
     ],
     "wof:id": 1947956945,
     "wof:involves": [
+      1159289871,
       102527513,
       102554947,
       1159285413,
       1947304603,
-      1159283597,
-      1159289871
+      1159283597
     ],
-    "wof:lastmodified": 1740002218,
+    "wof:lastmodified": 1740180930,
     "wof:name": "UA490 (YYC-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

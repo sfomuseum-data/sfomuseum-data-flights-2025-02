@@ -102,13 +102,13 @@
     "wof:id": 1947956601,
     "wof:involves": [
       1159283597,
-      1159289407,
       102527513,
       102527853,
       1159285413,
-      1947304609
+      1947304609,
+      1159289407
     ],
-    "wof:lastmodified": 1740002235,
+    "wof:lastmodified": 1740180947,
     "wof:name": "UA1195 (TUS-SFO)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

@@ -100,14 +100,14 @@
     ],
     "wof:id": 1947960869,
     "wof:involves": [
+      1528104577,
       102525035,
       102527513,
       1159285413,
       1947304515,
-      1159283697,
-      1528104577
+      1159283697
     ],
-    "wof:lastmodified": 1740002213,
+    "wof:lastmodified": 1740180922,
     "wof:name": "UA499 (SFO-BNA)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

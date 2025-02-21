@@ -100,14 +100,14 @@
     ],
     "wof:id": 1947956653,
     "wof:involves": [
+      1159286475,
       1159289871,
       102527513,
       102533269,
       1159285413,
-      1947304525,
-      1159286475
+      1947304525
     ],
-    "wof:lastmodified": 1740002235,
+    "wof:lastmodified": 1740180948,
     "wof:name": "UA1482 (SEA-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

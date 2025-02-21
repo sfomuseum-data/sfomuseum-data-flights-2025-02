@@ -103,12 +103,12 @@
     "wof:involves": [
       1763588337,
       1159283697,
-      1528104575,
       102527513,
       102528779,
-      1159285413
+      1159285413,
+      1528104575
     ],
-    "wof:lastmodified": 1740002236,
+    "wof:lastmodified": 1740180948,
     "wof:name": "UA1769 (RDU-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

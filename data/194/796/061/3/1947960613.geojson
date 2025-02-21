@@ -96,14 +96,14 @@
     ],
     "wof:id": 1947960613,
     "wof:involves": [
+      1159283697,
       1528104577,
       102528541,
       102527513,
       1159285413,
-      1947304617,
-      1159283697
+      1947304617
     ],
-    "wof:lastmodified": 1740002210,
+    "wof:lastmodified": 1740180919,
     "wof:name": "UA1517 (SFO-DFW)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",
