@@ -1,0 +1,72 @@
+{
+  "id": 1947968709,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-20",
+    "date:inception_upper": "2025-02-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SY",
+    "flysfo:date": "2025-02-20",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "SY1664",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SJO",
+    "flysfo:scheduled_timestamp": 1740099000,
+    "flysfo:timestamp": 1740099000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,9.993860,-84.208801,37.617990",
+    "geom:latitude": 23.805925,
+    "geom:longitude": -103.289872,
+    "iata:airline": "SY",
+    "icao:airline": "SCX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102537555,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250220-D-SCX-1664",
+    "sfomuseum:flight_number": [
+      "SCX1664",
+      "SY1664"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1740174971,
+    "wof:geomhash": "05151bbebc72a691ecf3d87519f35adc",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1947968709,
+        "flight_id": 1947968709
+      }
+    ],
+    "wof:id": 1947968709,
+    "wof:involves": [
+      102537555,
+      102527513,
+      1159285227,
+      -1
+    ],
+    "wof:lastmodified": 1740174971,
+    "wof:name": "SY1664 (SFO-SJO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    9.99386,
+    -84.208801,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.208801,9.99386]],"type":"MultiPoint"}
+}
