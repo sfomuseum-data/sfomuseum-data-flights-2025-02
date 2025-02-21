@@ -2,10 +2,12 @@
   "id": 1947981421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T19:46:00Z",
+    "edtf:inception": "2025-02-16T15:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2025-02-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +55,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92402598",
+      "swim:gufi": "KO50723100"
+    },
     "wof:country": "US",
     "wof:created": 1740179500,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 1947981421,
     "wof:involves": [
-      102528659,
       102527513,
       1159283849,
-      1947304317
+      1947304317,
+      1159289411,
+      102528659
     ],
-    "wof:lastmodified": 1740179500,
+    "wof:lastmodified": 1740180656,
     "wof:name": "AA1960 (SFO-CLT)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

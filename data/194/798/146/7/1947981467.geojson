@@ -2,10 +2,12 @@
   "id": 1947981467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T21:56:00Z",
+    "edtf:inception": "2025-02-16T17:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20250216-D-RAM-5084",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N953XV",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92400974"
+    },
     "wof:country": "US",
     "wof:created": 1740179513,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1947981467,
     "wof:involves": [
+      1159289411,
       102531023,
       102527513,
       1159283849,
       1947304291,
       1159285081
     ],
-    "wof:lastmodified": 1740179513,
+    "wof:lastmodified": 1740180657,
     "wof:name": "AA369 (SFO-MIA)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1947981403,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T16:56:53Z",
+    "edtf:inception": "2025-02-16T14:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92397164"
+    },
     "wof:country": "US",
     "wof:created": 1740179495,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -94,7 +102,7 @@
       1947304277,
       1159284021
     ],
-    "wof:lastmodified": 1740179495,
+    "wof:lastmodified": 1740180656,
     "wof:name": "AA1198 (SFO-DFW)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

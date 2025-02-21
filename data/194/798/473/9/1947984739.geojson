@@ -2,10 +2,12 @@
   "id": 1947984739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T14:58:34Z",
+    "edtf:inception": "2025-02-16T14:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20250216-D-AVA-2163",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92397546",
+      "swim:gufi": "KO41096100"
+    },
     "wof:country": "US",
     "wof:created": 1740180456,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -92,9 +103,10 @@
       102527513,
       1159285413,
       1947304453,
-      1159285749
+      1159285749,
+      1528104575
     ],
-    "wof:lastmodified": 1740180456,
+    "wof:lastmodified": 1740180682,
     "wof:name": "UA502 (SFO-LAX)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

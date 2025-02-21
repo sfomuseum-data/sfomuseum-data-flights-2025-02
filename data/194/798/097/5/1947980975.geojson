@@ -2,10 +2,12 @@
   "id": 1947980975,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T16:21:00Z",
+    "edtf:inception": "2025-02-16T05:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -0.285817999999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B773",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1528104579,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250216-A-CCA-7209",
@@ -53,6 +57,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92381674"
+    },
     "wof:country": "US",
     "wof:created": 1740179372,
     "wof:geomhash": "0a16624c451961804ad27ef012213244",
@@ -88,13 +95,14 @@
     ],
     "wof:id": 1947980975,
     "wof:involves": [
+      1528104579,
       102527513,
       102550331,
       1159285413,
       1947304141,
       1159283605
     ],
-    "wof:lastmodified": 1740179372,
+    "wof:lastmodified": 1740180654,
     "wof:name": "UA858 (PVG-SFO)",
     "wof:parent_id": 1947304141,
     "wof:placetype": "custom",

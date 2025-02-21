@@ -2,10 +2,12 @@
   "id": 1947980395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T05:06:00Z",
+    "edtf:inception": "2025-02-16T00:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250216-A-DLH-7859",
@@ -53,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92371080",
+      "swim:gufi": "KO13231100"
+    },
     "wof:country": "US",
     "wof:created": 1740179208,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1947980395,
     "wof:involves": [
+      1159286015,
+      1528104575,
       102527513,
       102528943,
       1159285413,
-      1947304599,
-      1159286015
+      1947304599
     ],
-    "wof:lastmodified": 1740179208,
+    "wof:lastmodified": 1740180649,
     "wof:name": "UA1112 (LIH-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

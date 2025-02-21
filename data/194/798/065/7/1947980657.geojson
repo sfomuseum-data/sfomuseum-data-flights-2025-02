@@ -2,10 +2,12 @@
   "id": 1947980657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T15:09:00Z",
+    "edtf:inception": "2025-02-16T14:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250216-A-ACA-4080",
@@ -53,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92397538",
+      "swim:gufi": "KL43490100"
+    },
     "wof:country": "US",
     "wof:created": 1740179281,
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1947980657,
     "wof:involves": [
+      1947304599,
+      1159283597,
+      1159292085,
       102527513,
       102533575,
-      1159285413,
-      1947304599,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1740179281,
+    "wof:lastmodified": 1740180651,
     "wof:name": "UA277 (ONT-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

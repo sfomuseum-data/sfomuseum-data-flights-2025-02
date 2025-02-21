@@ -2,10 +2,12 @@
   "id": 1947979049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T19:16:21Z",
+    "edtf:inception": "2025-02-16T15:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2025-02-16",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92401266"
+    },
     "wof:country": "US",
     "wof:created": 1740178818,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -88,7 +93,7 @@
       1159284261,
       1947304667
     ],
-    "wof:lastmodified": 1740178818,
+    "wof:lastmodified": 1740180658,
     "wof:name": "DL2078 (MSP-SFO)",
     "wof:parent_id": 1947304667,
     "wof:placetype": "custom",

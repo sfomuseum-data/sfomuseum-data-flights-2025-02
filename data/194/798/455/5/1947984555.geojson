@@ -2,10 +2,12 @@
   "id": 1947984555,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T11:14:33Z",
+    "edtf:inception": "2025-02-16T06:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620244,
     "lbl:longitude": -122.387813,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20250216-D-ANZ-9109",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N787UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92383752",
+      "swim:gufi": "KO15957100"
+    },
     "wof:country": "US",
     "wof:created": 1740180405,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -92,9 +101,10 @@
       102527513,
       1159285413,
       1947304463,
-      1159283697
+      1159283697,
+      1159289985
     ],
-    "wof:lastmodified": 1740180405,
+    "wof:lastmodified": 1740180681,
     "wof:name": "UA2013 (SFO-EWR)",
     "wof:parent_id": 1947304463,
     "wof:placetype": "custom",

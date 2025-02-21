@@ -2,10 +2,12 @@
   "id": 1947984767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T16:39:54Z",
+    "edtf:inception": "2025-02-16T15:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:base_flight_id": "20250216-D-ACA-5618",
@@ -53,6 +57,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92402434",
+      "swim:gufi": "KO45844100"
+    },
     "wof:country": "US",
     "wof:created": 1740180464,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1947984767,
     "wof:involves": [
+      1947304529,
+      1159283597,
+      1528104575,
       102528997,
       102527513,
-      1159285413,
-      1947304529,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1740180464,
+    "wof:lastmodified": 1740180682,
     "wof:name": "UA539 (SFO-SAN)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1947984703,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-16",
     "date:inception_upper": "2025-02-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-16",
+    "edtf:cessation": "2025-02-16T23:32:00Z",
+    "edtf:inception": "2025-02-16T20:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92443247"
+    },
     "wof:country": "US",
     "wof:created": 1740180446,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -46,12 +56,12 @@
     ],
     "wof:id": 1947984703,
     "wof:involves": [
-      102534097,
-      102527513,
       1159285413,
-      -1
+      1159293215,
+      102534097,
+      102527513
     ],
-    "wof:lastmodified": 1740180446,
+    "wof:lastmodified": 1740180682,
     "wof:name": "UA3904 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
