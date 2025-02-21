@@ -2,10 +2,12 @@
   "id": 1947970623,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-19",
+    "date:cessation_upper": "2025-02-19",
     "date:inception_lower": "2025-02-19",
     "date:inception_upper": "2025-02-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-19",
+    "edtf:cessation": "2025-02-19T17:04:47Z",
+    "edtf:inception": "2025-02-19T13:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -112.83645849999999,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250219-A-DAL-7970",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92629928"
+    },
     "wof:country": "US",
     "wof:created": 1740175907,
     "wof:geomhash": "d1cf00e952c40abdeded8d31cdcdf72b",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1947970623,
     "wof:involves": [
-      102527513,
-      102536387,
       1159283539,
       1947304081,
-      1159284261
+      1159284261,
+      1528104577,
+      102527513,
+      102536387
     ],
-    "wof:lastmodified": 1740175907,
+    "wof:lastmodified": 1740178028,
     "wof:name": "AM622 (GDL-SFO)",
     "wof:parent_id": 1947304081,
     "wof:placetype": "custom",

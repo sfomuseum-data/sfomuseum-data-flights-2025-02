@@ -2,10 +2,12 @@
   "id": 1947976687,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-20",
+    "date:cessation_upper": "2025-02-20",
     "date:inception_lower": "2025-02-19",
     "date:inception_upper": "2025-02-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-19",
+    "edtf:cessation": "2025-02-20T01:56:00Z",
+    "edtf:inception": "2025-02-19T21:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.809414,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102529403,
     "sfomuseum:base_flight_id": "20250219-D-CCA-7330",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N47291",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92671849",
+      "swim:gufi": "KO63439400"
+    },
     "wof:country": "US",
     "wof:created": 1740177785,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1947976687,
     "wof:involves": [
+      1159283605,
+      1528104575,
       102529403,
       102527513,
       1159285413,
-      1947304617,
-      1159283605
+      1947304617
     ],
-    "wof:lastmodified": 1740177785,
+    "wof:lastmodified": 1740178020,
     "wof:name": "UA354 (SFO-PHL)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",
