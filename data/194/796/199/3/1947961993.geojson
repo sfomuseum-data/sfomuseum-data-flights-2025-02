@@ -2,10 +2,12 @@
   "id": 1947961993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-20",
+    "date:cessation_upper": "2025-02-20",
     "date:inception_lower": "2025-02-20",
     "date:inception_upper": "2025-02-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-20",
+    "edtf:cessation": "2025-02-20T07:35:45Z",
+    "edtf:inception": "2025-02-20T06:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "OZ",
     "iata:base_airline": "",
+    "icao:aircraft": "B744",
     "icao:airline": "AAR",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289915,
     "sfomuseum:airline_id": 1159283917,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250220-A-AAR-283",
@@ -39,7 +43,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92701196"
+    },
     "wof:country": "US",
     "wof:created": 1740172828,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -54,10 +64,9 @@
       102527513,
       102533795,
       1159283917,
-      -1,
-      1159283917
+      1159289915
     ],
-    "wof:lastmodified": 1740172828,
+    "wof:lastmodified": 1740175420,
     "wof:name": "OZ284 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
