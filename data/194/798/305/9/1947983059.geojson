@@ -1,0 +1,72 @@
+{
+  "id": 1947983059,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-16",
+    "date:inception_upper": "2025-02-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2025-02-16",
+    "flysfo:estimated_timestamp": 1739767500,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL8923",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CLE",
+    "flysfo:scheduled_timestamp": 1739767500,
+    "flysfo:timestamp": 1739767500,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-81.835629,41.406844",
+    "geom:latitude": 39.512417,
+    "geom:longitude": -102.103286,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102534019,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250216-D-DAL-8923",
+    "sfomuseum:flight_number": [
+      "DAL8923",
+      "DL8923"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1740179972,
+    "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1947983059,
+        "flight_id": 1947983059
+      }
+    ],
+    "wof:id": 1947983059,
+    "wof:involves": [
+      102534019,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1740179972,
+    "wof:name": "DL8923 (SFO-CLE)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -81.835629,
+    41.406844
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-81.835629,41.406844]],"type":"MultiPoint"}
+}
