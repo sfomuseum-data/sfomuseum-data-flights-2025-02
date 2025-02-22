@@ -2,10 +2,12 @@
   "id": 1947991971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T05:19:00Z",
+    "edtf:inception": "2025-02-15T04:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.3621325,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 1746879083,
     "sfomuseum:base_flight_id": "20250215-D-ACA-4396",
@@ -53,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92292466"
+    },
     "wof:country": "US",
     "wof:created": 1740183990,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -92,9 +99,10 @@
       102527513,
       1159285413,
       1947304617,
-      1159283597
+      1159283597,
+      1159289871
     ],
-    "wof:lastmodified": 1740183990,
+    "wof:lastmodified": 1740184237,
     "wof:name": "UA2409 (SFO-BUR)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

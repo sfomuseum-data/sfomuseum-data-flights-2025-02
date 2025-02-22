@@ -2,10 +2,12 @@
   "id": 1947988421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T17:52:00Z",
+    "edtf:inception": "2025-02-15T16:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250215-A-ANA-7355",
@@ -53,6 +57,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92327745",
+      "swim:gufi": "KL51750700"
+    },
     "wof:country": "US",
     "wof:created": 1740182961,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,9 +100,10 @@
       102533795,
       1159285413,
       1947304487,
-      1159283875
+      1159283875,
+      1377564285
     ],
-    "wof:lastmodified": 1740182961,
+    "wof:lastmodified": 1740184250,
     "wof:name": "UA2735 (LAX-SFO)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

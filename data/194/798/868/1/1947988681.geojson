@@ -2,10 +2,12 @@
   "id": 1947988681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T07:58:00Z",
+    "edtf:inception": "2025-02-15T04:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250215-A-CCA-7242",
@@ -53,6 +57,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92292256",
+      "swim:gufi": "KH08899700"
+    },
     "wof:country": "US",
     "wof:created": 1740183036,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1947988681,
     "wof:involves": [
-      102527513,
-      102534097,
       1159285413,
       1947304517,
-      1159283605
+      1159283605,
+      1528104577,
+      102527513,
+      102534097
     ],
-    "wof:lastmodified": 1740183036,
+    "wof:lastmodified": 1740184252,
     "wof:name": "UA725 (IAH-SFO)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

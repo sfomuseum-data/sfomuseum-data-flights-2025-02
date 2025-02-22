@@ -2,10 +2,12 @@
   "id": 1947987371,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-02-15",
-    "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
+    "date:inception_lower": "2025-02-16",
+    "date:inception_upper": "2025-02-16",
+    "edtf:cessation": "2025-02-15T05:57:00Z",
+    "edtf:inception": "2025-02-16T01:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92277553"
+    },
     "wof:country": "US",
     "wof:created": 1740182654,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -94,7 +102,7 @@
       1947304075,
       1159283813
     ],
-    "wof:lastmodified": 1740182654,
+    "wof:lastmodified": 1740184237,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",

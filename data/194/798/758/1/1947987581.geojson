@@ -2,10 +2,12 @@
   "id": 1947987581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-16T00:39:00Z",
+    "edtf:inception": "2025-02-15T17:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250215-A-HAL-2477",
@@ -53,6 +57,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92329953",
+      "swim:gufi": "KB50132700"
+    },
     "wof:country": "US",
     "wof:created": 1740182716,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -92,9 +100,10 @@
       102530741,
       1159284583,
       1947304289,
-      1159284489
+      1159284489,
+      1159289411
     ],
-    "wof:lastmodified": 1740182716,
+    "wof:lastmodified": 1740184239,
     "wof:name": "B6133 (BOS-SFO)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1947991917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T23:59:00Z",
+    "edtf:inception": "2025-02-15T19:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20250215-D-ANZ-9167",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92344469",
+      "swim:gufi": "KO64247700"
+    },
     "wof:country": "US",
     "wof:created": 1740183974,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1947991917,
     "wof:involves": [
+      1159283697,
+      1377564285,
       102528817,
       102527513,
       1159285413,
-      1763588337,
-      1159283697
+      1763588337
     ],
-    "wof:lastmodified": 1740183974,
+    "wof:lastmodified": 1740184236,
     "wof:name": "UA1986 (SFO-IAD)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

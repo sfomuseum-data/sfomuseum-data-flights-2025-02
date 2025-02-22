@@ -2,10 +2,12 @@
   "id": 1947988439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T16:39:26Z",
+    "edtf:inception": "2025-02-15T15:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250215-A-ACA-5213",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92321880",
+      "swim:gufi": "KL46565700"
+    },
     "wof:country": "US",
     "wof:created": 1740182966,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1947988439,
     "wof:involves": [
-      102527513,
-      102534161,
       1159285413,
       1947304617,
-      1159283597
+      1159283597,
+      1159292085,
+      102527513,
+      102534161
     ],
-    "wof:lastmodified": 1740182966,
+    "wof:lastmodified": 1740184250,
     "wof:name": "UA313 (SNA-SFO)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

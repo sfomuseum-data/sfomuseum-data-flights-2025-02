@@ -2,10 +2,12 @@
   "id": 1947988227,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T19:14:00Z",
+    "edtf:inception": "2025-02-15T15:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -106.3692875,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250215-A-ANZ-9700",
@@ -53,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92319902",
+      "swim:gufi": "KK44546700"
+    },
     "wof:country": "US",
     "wof:created": 1740182904,
     "wof:geomhash": "5aed0915f9f8845326df52b0d348a4b7",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1947988227,
     "wof:involves": [
-      102527513,
-      1746879059,
       1159285413,
       1947304617,
-      1159283697
+      1159283697,
+      1159289407,
+      102527513,
+      1746879059
     ],
-    "wof:lastmodified": 1740182904,
+    "wof:lastmodified": 1740184249,
     "wof:name": "UA1314 (STL-SFO)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

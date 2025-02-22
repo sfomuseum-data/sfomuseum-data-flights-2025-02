@@ -2,10 +2,12 @@
   "id": 1947987127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T20:31:00Z",
+    "edtf:inception": "2025-02-15T19:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250215-A-AFR-2653",
@@ -53,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92339225",
+      "swim:gufi": "KU63361701"
+    },
     "wof:country": "US",
     "wof:created": 1740182582,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1947987127,
     "wof:involves": [
-      102527513,
       102527363,
       1159284261,
       1947304675,
-      1159283627
+      1159283627,
+      1813375783,
+      102527513
     ],
-    "wof:lastmodified": 1740182582,
+    "wof:lastmodified": 1740184235,
     "wof:name": "DL902 (SLC-SFO)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1947988667,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-15T22:36:45Z",
+    "edtf:inception": "2025-02-15T20:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92352070"
+    },
     "wof:country": "US",
     "wof:created": 1740183032,
     "wof:geomhash": "82918c5e99f5bb53bff81082f1f1666f",
@@ -94,7 +102,7 @@
       1947304531,
       1159283597
     ],
-    "wof:lastmodified": 1740183032,
+    "wof:lastmodified": 1740184252,
     "wof:name": "UA697 (TUS-SFO)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

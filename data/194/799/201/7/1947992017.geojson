@@ -2,10 +2,12 @@
   "id": 1947992017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-16T02:15:47Z",
+    "edtf:inception": "2025-02-15T21:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20250215-D-CCA-7307",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92355913",
+      "swim:gufi": "KO62177700"
+    },
     "wof:country": "US",
     "wof:created": 1740184003,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1947992017,
     "wof:involves": [
+      1159283605,
+      1528104575,
       102530741,
       102527513,
       1159285413,
-      1947304525,
-      1159283605
+      1947304525
     ],
-    "wof:lastmodified": 1740184003,
+    "wof:lastmodified": 1740184238,
     "wof:name": "UA2851 (SFO-BOS)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

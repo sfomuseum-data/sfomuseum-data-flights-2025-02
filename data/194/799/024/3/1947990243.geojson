@@ -2,10 +2,12 @@
   "id": 1947990243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-16",
+    "date:cessation_upper": "2025-02-16",
     "date:inception_lower": "2025-02-15",
     "date:inception_upper": "2025-02-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-15",
+    "edtf:cessation": "2025-02-16T00:41:00Z",
+    "edtf:inception": "2025-02-15T21:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92341570"
+    },
     "wof:country": "US",
     "wof:created": 1740183492,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -94,7 +99,7 @@
       1947304297,
       1159284489
     ],
-    "wof:lastmodified": 1740183492,
+    "wof:lastmodified": 1740184214,
     "wof:name": "AS598 (SFO-ORD)",
     "wof:parent_id": 1947304297,
     "wof:placetype": "custom",
