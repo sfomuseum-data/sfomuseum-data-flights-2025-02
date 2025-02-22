@@ -2,10 +2,12 @@
   "id": 1948016361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-21",
+    "date:cessation_upper": "2025-02-21",
     "date:inception_lower": "2025-02-21",
     "date:inception_upper": "2025-02-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-21",
+    "edtf:cessation": "2025-02-21T22:15:00Z",
+    "edtf:inception": "2025-02-21T17:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.580671,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528779,
     "sfomuseum:base_flight_id": "20250221-D-ANZ-9569",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N17341",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92823815",
+      "swim:gufi": "KO53875600"
+    },
     "wof:country": "US",
     "wof:created": 1740242366,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -92,9 +105,10 @@
       102527513,
       1159285413,
       1947304453,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1740242366,
+    "wof:lastmodified": 1740242697,
     "wof:name": "UA1763 (SFO-RDU)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

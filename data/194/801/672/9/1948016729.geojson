@@ -2,10 +2,12 @@
   "id": 1948016729,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-02-21",
-    "date:inception_upper": "2025-02-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-21",
+    "date:cessation_lower": "2025-02-22",
+    "date:cessation_upper": "2025-02-22",
+    "date:inception_lower": "2025-02-22",
+    "date:inception_upper": "2025-02-22",
+    "edtf:cessation": "2025-02-22T06:32:00Z",
+    "edtf:inception": "2025-02-22T05:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:base_flight_id": "20250221-D-ANZ-9717",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N487UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO03173700"
+    },
     "wof:country": "US",
     "wof:created": 1740242477,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1948016729,
     "wof:involves": [
+      1947304613,
+      1159283697,
+      1159292085,
       102534161,
       102527513,
-      1159285413,
-      1947304613,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1740242477,
+    "wof:lastmodified": 1740242681,
     "wof:name": "UA589 (SFO-SNA)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

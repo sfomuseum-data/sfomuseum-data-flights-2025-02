@@ -2,10 +2,12 @@
   "id": 1948015651,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-02-21",
-    "date:inception_upper": "2025-02-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-21",
+    "date:cessation_lower": "2025-02-22",
+    "date:cessation_upper": "2025-02-22",
+    "date:inception_lower": "2025-02-22",
+    "date:inception_upper": "2025-02-22",
+    "edtf:cessation": "2025-02-22T02:53:00Z",
+    "edtf:inception": "2025-02-22T01:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2025-02-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.861199,
     "geom:longitude": -119.808415,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102530129,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N203BZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +93,13 @@
     ],
     "wof:id": 1948015651,
     "wof:involves": [
-      102530129,
       102527513,
       1763552131,
-      1947304607
+      1947304607,
+      1813375783,
+      102530129
     ],
-    "wof:lastmodified": 1740242150,
+    "wof:lastmodified": 1740242696,
     "wof:name": "MX613 (SFO-SBD)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

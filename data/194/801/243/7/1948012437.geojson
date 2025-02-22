@@ -2,10 +2,12 @@
   "id": 1948012437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-22",
+    "date:cessation_upper": "2025-02-22",
     "date:inception_lower": "2025-02-21",
     "date:inception_upper": "2025-02-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-21",
+    "edtf:cessation": "2025-02-21T23:07:24-08:00",
+    "edtf:inception": "2025-02-21T14:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250221-A-ACA-4371",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N76265",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92805734",
+      "swim:gufi": "KO43797600"
+    },
     "wof:country": "US",
     "wof:created": 1740241145,
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1948012437,
     "wof:involves": [
+      1159289871,
       102527513,
       102525535,
       1159285413,
       1947304599,
       1159283597
     ],
-    "wof:lastmodified": 1740241145,
+    "wof:lastmodified": 1740242662,
     "wof:name": "UA2492 (RNO-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",
