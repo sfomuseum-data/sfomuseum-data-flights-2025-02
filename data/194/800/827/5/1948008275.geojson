@@ -2,10 +2,12 @@
   "id": 1948008275,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-02-13",
-    "date:inception_upper": "2025-02-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-13",
+    "date:cessation_lower": "2025-02-14",
+    "date:cessation_upper": "2025-02-14",
+    "date:inception_lower": "2025-02-14",
+    "date:inception_upper": "2025-02-14",
+    "edtf:cessation": "2025-02-14T02:03:53Z",
+    "edtf:inception": "2025-02-14T00:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.6588805,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527853,
     "sfomuseum:base_flight_id": "20250213-D-ANA-7008",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N836UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92173751",
+      "swim:gufi": "KO84602500"
+    },
     "wof:country": "US",
     "wof:created": 1740194780,
     "wof:geomhash": "6716e4c7ca0e3c1891c385118d042906",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1948008275,
     "wof:involves": [
+      1159283875,
+      1159289407,
       102527853,
       102527513,
       1159285413,
-      1947304623,
-      1159283875
+      1947304623
     ],
-    "wof:lastmodified": 1740194780,
+    "wof:lastmodified": 1740195133,
     "wof:name": "UA2229 (SFO-TUS)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

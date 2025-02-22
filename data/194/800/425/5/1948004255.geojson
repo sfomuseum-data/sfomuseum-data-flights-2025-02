@@ -2,10 +2,12 @@
   "id": 1948004255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-13",
+    "date:cessation_upper": "2025-02-13",
     "date:inception_lower": "2025-02-13",
     "date:inception_upper": "2025-02-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-13",
+    "edtf:cessation": "2025-02-13T15:55:31Z",
+    "edtf:inception": "2025-02-13T04:54:45Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.9627305,
     "geom:longitude": -4.221753499999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541737,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92188244"
+    },
     "wof:country": "US",
     "wof:created": 1740193333,
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
@@ -86,9 +96,10 @@
       102527513,
       102541737,
       1159285413,
-      1947304147
+      1947304147,
+      1159289985
     ],
-    "wof:lastmodified": 1740193333,
+    "wof:lastmodified": 1740195113,
     "wof:name": "UA3927 (HKG-SFO)",
     "wof:parent_id": 1947304147,
     "wof:placetype": "custom",
