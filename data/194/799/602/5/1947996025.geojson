@@ -2,10 +2,12 @@
   "id": 1947996025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-14",
     "date:inception_upper": "2025-02-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-14",
+    "edtf:cessation": "2025-02-15T06:05:00Z",
+    "edtf:inception": "2025-02-14T15:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 19.482695,
     "geom:longitude": -9.197052,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.613288,
     "lbl:longitude": -122.389396,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102551593,
@@ -48,6 +52,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92225187",
+      "swim:gufi": "KO16134700"
+    },
     "wof:country": "US",
     "wof:created": 1740186109,
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1947996025,
     "wof:involves": [
-      102527513,
-      102551593,
       1159285413,
-      1947304087
+      1947304087,
+      1159293215,
+      102527513,
+      102551593
     ],
-    "wof:lastmodified": 1740186109,
+    "wof:lastmodified": 1740187749,
     "wof:name": "UA28 (SIN-SFO)",
     "wof:parent_id": 1947304087,
     "wof:placetype": "custom",

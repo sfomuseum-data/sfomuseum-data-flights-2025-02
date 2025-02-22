@@ -2,10 +2,12 @@
   "id": 1947995935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-14",
     "date:inception_upper": "2025-02-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-14",
+    "edtf:cessation": "2025-02-15T01:39:00Z",
+    "edtf:inception": "2025-02-14T23:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.76460499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250214-A-ANZ-9415",
@@ -53,6 +57,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92271891",
+      "swim:gufi": "KU74337600"
+    },
     "wof:country": "US",
     "wof:created": 1740186079,
     "wof:geomhash": "acf2ad4ec949b4135a187e5a7cb03262",
@@ -92,9 +100,10 @@
       102530815,
       1159285413,
       1947304491,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1740186079,
+    "wof:lastmodified": 1740187748,
     "wof:name": "UA2201 (BZN-SFO)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

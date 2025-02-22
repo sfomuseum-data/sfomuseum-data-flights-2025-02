@@ -2,10 +2,12 @@
   "id": 1947996067,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-14",
+    "date:cessation_upper": "2025-02-14",
     "date:inception_lower": "2025-02-14",
     "date:inception_upper": "2025-02-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-14",
+    "edtf:cessation": "2025-02-14T09:09:00Z",
+    "edtf:inception": "2025-02-14T05:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -48,6 +52,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92250826",
+      "swim:gufi": "KG05376600"
+    },
     "wof:country": "US",
     "wof:created": 1740186122,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -86,9 +94,10 @@
       102527513,
       102533631,
       1159285413,
-      1947304475
+      1947304475,
+      1159289985
     ],
-    "wof:lastmodified": 1740186122,
+    "wof:lastmodified": 1740187749,
     "wof:name": "UA3916 (ORD-SFO)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",

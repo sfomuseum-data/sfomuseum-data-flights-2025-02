@@ -2,10 +2,12 @@
   "id": 1947998411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-15",
+    "date:cessation_upper": "2025-02-15",
     "date:inception_lower": "2025-02-14",
     "date:inception_upper": "2025-02-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-14",
+    "edtf:cessation": "2025-02-15T10:09:08Z",
+    "edtf:inception": "2025-02-14T19:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:date": "2025-02-14",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92252311"
+    },
     "wof:country": "US",
     "wof:created": 1740186892,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -88,7 +93,7 @@
       1159284127,
       1947304101
     ],
-    "wof:lastmodified": 1740186892,
+    "wof:lastmodified": 1740187773,
     "wof:name": "CX879 (SFO-HKG)",
     "wof:parent_id": 1947304101,
     "wof:placetype": "custom",
