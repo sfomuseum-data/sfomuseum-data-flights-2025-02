@@ -2,10 +2,12 @@
   "id": 1948017287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-22",
+    "date:cessation_upper": "2025-02-22",
     "date:inception_lower": "2025-02-22",
     "date:inception_upper": "2025-02-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-22",
+    "edtf:cessation": "2025-02-22T03:50:03-08:00",
+    "edtf:inception": "2025-02-22T18:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "AAL",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250222-A-QTR-7698",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N331TK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92920219",
+      "swim:gufi": "KA60554700"
+    },
     "wof:country": "US",
     "wof:created": 1740326490,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1948017287,
     "wof:involves": [
-      102527513,
       102526751,
       1159283849,
       1947304317,
-      1159286153
+      1159286153,
+      1528104575,
+      102527513
     ],
-    "wof:lastmodified": 1740326490,
+    "wof:lastmodified": 1740328749,
     "wof:name": "AA2423 (PHX-SFO)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",
