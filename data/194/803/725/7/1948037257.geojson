@@ -2,10 +2,12 @@
   "id": 1948037257,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-12",
+    "date:cessation_upper": "2025-02-12",
     "date:inception_lower": "2025-02-11",
     "date:inception_upper": "2025-02-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-11",
+    "edtf:cessation": "2025-02-12T10:29:11Z",
+    "edtf:inception": "2025-02-11T23:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "ZG",
     "flysfo:date": "2025-02-11",
@@ -34,6 +36,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +54,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92098169"
+    },
     "wof:country": "US",
     "wof:created": 1740342973,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -88,7 +97,7 @@
       1813375131,
       1947304083
     ],
-    "wof:lastmodified": 1740342973,
+    "wof:lastmodified": 1740343292,
     "wof:name": "ZG25 (SFO-NRT)",
     "wof:parent_id": 1947304083,
     "wof:placetype": "custom",
