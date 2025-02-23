@@ -2,10 +2,12 @@
   "id": 1948024729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-12",
+    "date:cessation_upper": "2025-02-12",
     "date:inception_lower": "2025-02-12",
     "date:inception_upper": "2025-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-12",
+    "edtf:cessation": "2025-02-12T17:49:37Z",
+    "edtf:inception": "2025-02-12T08:19:05Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92043168"
+    },
     "wof:country": "US",
     "wof:created": 1740338483,
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
@@ -94,7 +99,7 @@
       1947304133,
       1159285639
     ],
-    "wof:lastmodified": 1740338483,
+    "wof:lastmodified": 1740340516,
     "wof:name": "OZ216 (ICN-SFO)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

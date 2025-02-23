@@ -2,10 +2,12 @@
   "id": 1948030627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-12",
+    "date:cessation_upper": "2025-02-12",
     "date:inception_lower": "2025-02-12",
     "date:inception_upper": "2025-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-12",
+    "edtf:cessation": "2025-02-12T22:19:00Z",
+    "edtf:inception": "2025-02-12T19:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:base_flight_id": "20250212-D-ANA-7372",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N47330",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92082821",
+      "swim:gufi": "KO57541400"
+    },
     "wof:country": "US",
     "wof:created": 1740340263,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1948030627,
     "wof:involves": [
-      102528541,
       102527513,
       1159285413,
       1947304487,
-      1159283875
+      1159283875,
+      1528104575,
+      102528541
     ],
-    "wof:lastmodified": 1740340263,
+    "wof:lastmodified": 1740340520,
     "wof:name": "UA1517 (SFO-DFW)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

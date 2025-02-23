@@ -2,10 +2,12 @@
   "id": 1948027171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-12",
+    "date:cessation_upper": "2025-02-12",
     "date:inception_lower": "2025-02-12",
     "date:inception_upper": "2025-02-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-12",
+    "edtf:cessation": "2025-02-12T16:38:00Z",
+    "edtf:inception": "2025-02-12T15:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250212-A-CCA-7305",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92062109",
+      "swim:gufi": "KS45722400"
+    },
     "wof:country": "US",
     "wof:created": 1740339242,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,9 +104,10 @@
       102533269,
       1159285413,
       1947304491,
-      1159283605
+      1159283605,
+      1377564285
     ],
-    "wof:lastmodified": 1740339242,
+    "wof:lastmodified": 1740340544,
     "wof:name": "UA1403 (SEA-SFO)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
