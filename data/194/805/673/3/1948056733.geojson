@@ -2,10 +2,12 @@
   "id": 1948056733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-09",
+    "date:cessation_upper": "2025-02-09",
     "date:inception_lower": "2025-02-09",
     "date:inception_upper": "2025-02-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-09",
+    "edtf:cessation": "2025-02-09T15:05:00Z",
+    "edtf:inception": "2025-02-09T09:00:26Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-09",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91893552"
+    },
     "wof:country": "US",
     "wof:created": 1740420434,
     "wof:geomhash": "cb635fc427df70f0d5f88d1f39ad4ded",
@@ -88,7 +93,7 @@
       1159285413,
       1947304149
     ],
-    "wof:lastmodified": 1740420434,
+    "wof:lastmodified": 1740421961,
     "wof:name": "UA114 (PPT-SFO)",
     "wof:parent_id": 1947304149,
     "wof:placetype": "custom",
