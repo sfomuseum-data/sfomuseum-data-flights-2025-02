@@ -2,10 +2,12 @@
   "id": 1948066673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-09",
+    "date:cessation_upper": "2025-02-09",
     "date:inception_lower": "2025-02-08",
     "date:inception_upper": "2025-02-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-08",
+    "edtf:cessation": "2025-02-09T02:34:29Z",
+    "edtf:inception": "2025-02-08T21:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "JBU",
     "icao:base_airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20250208-D-HAL-2224",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91780747"
+    },
     "wof:country": "US",
     "wof:created": 1740426242,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1948066673,
     "wof:involves": [
-      102530741,
       102527513,
       1159284583,
       1947304313,
-      1159284489
+      1159284489,
+      1159292085,
+      102530741
     ],
-    "wof:lastmodified": 1740426242,
+    "wof:lastmodified": 1740426712,
     "wof:name": "B61734 (SFO-BOS)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",

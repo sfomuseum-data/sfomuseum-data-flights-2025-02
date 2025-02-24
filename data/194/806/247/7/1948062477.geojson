@@ -2,10 +2,12 @@
   "id": 1948062477,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-02-08",
-    "date:inception_upper": "2025-02-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-08",
+    "date:cessation_lower": "2025-02-09",
+    "date:cessation_upper": "2025-02-09",
+    "date:inception_lower": "2025-02-09",
+    "date:inception_upper": "2025-02-09",
+    "edtf:cessation": "2025-02-09T08:53:00Z",
+    "edtf:inception": "2025-02-09T04:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250208-A-FJI-5807",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +60,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91715259",
+      "swim:gufi": "KO26787100"
+    },
     "wof:country": "US",
     "wof:created": 1740424865,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -92,9 +103,10 @@
       102533997,
       1159283813,
       1947304385,
-      1159283717
+      1159283717,
+      1528104577
     ],
-    "wof:lastmodified": 1740424865,
+    "wof:lastmodified": 1740426692,
     "wof:name": "AS876 (HNL-SFO)",
     "wof:parent_id": 1947304385,
     "wof:placetype": "custom",
