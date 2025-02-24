@@ -2,10 +2,12 @@
   "id": 1948075397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-08",
+    "date:cessation_upper": "2025-02-08",
     "date:inception_lower": "2025-02-07",
     "date:inception_upper": "2025-02-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-07",
+    "edtf:cessation": "2025-02-08T07:20:40Z",
+    "edtf:inception": "2025-02-07T19:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 2.1453445,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102556451,
     "sfomuseum:base_flight_id": "20250207-D-AAR-6615",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N217UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91674773",
+      "swim:gufi": "KO58666600"
+    },
     "wof:country": "US",
     "wof:created": 1740430660,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1948075397,
     "wof:involves": [
+      1159283917,
+      1159289985,
       102556451,
       102527513,
       1159285413,
-      1947304131,
-      1159283917
+      1947304131
     ],
-    "wof:lastmodified": 1740430660,
+    "wof:lastmodified": 1740430826,
     "wof:name": "UA893 (SFO-ICN)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",
