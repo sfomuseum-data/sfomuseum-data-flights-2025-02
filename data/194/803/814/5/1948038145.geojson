@@ -2,10 +2,12 @@
   "id": 1948038145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-10",
+    "date:cessation_upper": "2025-02-10",
     "date:inception_lower": "2025-02-10",
     "date:inception_upper": "2025-02-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-10",
+    "edtf:cessation": "2025-02-10T23:08:41Z",
+    "edtf:inception": "2025-02-10T18:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "CSN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250210-A-CSN-1636",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N993NN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91914781",
+      "swim:gufi": "KG62649200"
+    },
     "wof:country": "US",
     "wof:created": 1740365014,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1948038145,
     "wof:involves": [
+      1159284165,
+      1159289871,
       102527513,
       102533631,
       1159283849,
-      1947304291,
-      1159284165
+      1947304291
     ],
-    "wof:lastmodified": 1740365014,
+    "wof:lastmodified": 1740367421,
     "wof:name": "AA1253 (ORD-SFO)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",

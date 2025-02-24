@@ -2,10 +2,12 @@
   "id": 1948041175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-10",
+    "date:cessation_upper": "2025-02-10",
     "date:inception_lower": "2025-02-10",
     "date:inception_upper": "2025-02-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-10",
+    "edtf:cessation": "2025-02-10T15:18:00Z",
+    "edtf:inception": "2025-02-10T14:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250210-A-AVA-2270",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27334",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91894725"
+    },
     "wof:country": "US",
     "wof:created": 1740365997,
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
@@ -92,9 +104,10 @@
       102533927,
       1159285413,
       1763588337,
-      1159285749
+      1159285749,
+      1528104575
     ],
-    "wof:lastmodified": 1740365997,
+    "wof:lastmodified": 1740367436,
     "wof:name": "UA2259 (EUG-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
