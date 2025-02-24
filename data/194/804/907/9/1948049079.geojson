@@ -2,10 +2,12 @@
   "id": 1948049079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-23",
+    "date:cessation_upper": "2025-02-23",
     "date:inception_lower": "2025-02-23",
     "date:inception_upper": "2025-02-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-23",
+    "edtf:cessation": "2025-02-23T16:49:15Z",
+    "edtf:inception": "2025-02-23T05:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-23",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92969343"
+    },
     "wof:country": "US",
     "wof:created": 1740414055,
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
@@ -88,7 +93,7 @@
       1159285413,
       1947304137
     ],
-    "wof:lastmodified": 1740414055,
+    "wof:lastmodified": 1740415595,
     "wof:name": "UA3040 (AKL-SFO)",
     "wof:parent_id": 1947304137,
     "wof:placetype": "custom",
