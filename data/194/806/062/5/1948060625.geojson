@@ -1,0 +1,78 @@
+{
+  "id": 1948060625,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-09",
+    "date:inception_upper": "2025-02-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "7941",
+    "flysfo:date": "2025-02-09",
+    "flysfo:estimated_timestamp": 1739192580,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA203",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-ORD",
+    "flysfo:scheduled_timestamp": 1739160900,
+    "flysfo:timestamp": 1739192580,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "UA",
+    "iata:base_airline": "",
+    "icao:airline": "UAL",
+    "icao:base_airline": "DLH",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102533631,
+    "sfomuseum:base_flight_id": "20250209-D-DLH-7941",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250209-D-UAL-203",
+    "sfomuseum:flight_number": [
+      "UAL203",
+      "UA203"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1740421670,
+    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1948060625,
+        "flight_id": 1948060625
+      }
+    ],
+    "wof:id": 1948060625,
+    "wof:involves": [
+      102533631,
+      102527513,
+      1159285413,
+      -1,
+      1159286015
+    ],
+    "wof:lastmodified": 1740421670,
+    "wof:name": "UA203 (SFO-ORD)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.894364,
+    41.983038
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
+}
