@@ -1,0 +1,72 @@
+{
+  "id": 1948100851,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-01",
+    "date:inception_upper": "2025-02-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-01",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2025-02-01",
+    "flysfo:estimated_timestamp": 1738435020,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL425",
+    "flysfo:gate": "",
+    "flysfo:journey": "FAT-SFO",
+    "flysfo:scheduled_timestamp": 1738479360,
+    "flysfo:timestamp": 1738479360,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.768728,-119.721272,37.617990",
+    "geom:latitude": 37.193359,
+    "geom:longitude": -121.0461075,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530717,
+    "sfomuseum:flight_id": "20250201-A-DAL-425",
+    "sfomuseum:flight_number": [
+      "DAL425",
+      "DL425"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1740508348,
+    "wof:geomhash": "b157be63e9453882f41d2e530854b6a2",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1948100851,
+        "flight_id": 1948100851
+      }
+    ],
+    "wof:id": 1948100851,
+    "wof:involves": [
+      102527513,
+      102530717,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1740508348,
+    "wof:name": "DL425 (FAT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.768728,
+    -119.721272,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-119.721272,36.768728],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
