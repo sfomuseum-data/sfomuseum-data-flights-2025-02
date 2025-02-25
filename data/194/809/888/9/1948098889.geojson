@@ -1,0 +1,72 @@
+{
+  "id": 1948098889,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2025-02-02",
+    "date:inception_upper": "2025-02-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-02-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2025-02-02",
+    "flysfo:estimated_timestamp": 1738522800,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA6970",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-BFL",
+    "flysfo:scheduled_timestamp": 1738520700,
+    "flysfo:timestamp": 1738522800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.425802,-119.047271,37.617990",
+    "geom:latitude": 36.521896,
+    "geom:longitude": -120.70910699999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527035,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20250202-D-UAL-6970",
+    "sfomuseum:flight_number": [
+      "UAL6970",
+      "UA6970"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1740505202,
+    "wof:geomhash": "7977975fa4ad0a35973dcf84bbb5a31a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1948098889,
+        "flight_id": 1948098889
+      }
+    ],
+    "wof:id": 1948098889,
+    "wof:involves": [
+      102527035,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1740505202,
+    "wof:name": "UA6970 (SFO-BFL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2025-02",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.425802,
+    -119.047271,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.047271,35.425802]],"type":"MultiPoint"}
+}
