@@ -2,10 +2,12 @@
   "id": 1948156709,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2025-02-25",
-    "date:inception_upper": "2025-02-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-25",
+    "date:cessation_lower": "2025-02-26",
+    "date:cessation_upper": "2025-02-26",
+    "date:inception_lower": "2025-02-26",
+    "date:inception_upper": "2025-02-26",
+    "edtf:cessation": "2025-02-26T02:08:21Z",
+    "edtf:inception": "2025-02-26T01:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620244,
     "lbl:longitude": -122.387813,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20250225-D-ACA-3721",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N57864",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,10 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93129333",
+      "swim:gufi": "KO74746300"
+    },
     "wof:country": "US",
     "wof:created": 1740587855,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -92,9 +105,10 @@
       102527513,
       1159285413,
       1947304463,
-      1159283597
+      1159283597,
+      1159289945
     ],
-    "wof:lastmodified": 1740587855,
+    "wof:lastmodified": 1740588118,
     "wof:name": "UA2626 (SFO-LAS)",
     "wof:parent_id": 1947304463,
     "wof:placetype": "custom",

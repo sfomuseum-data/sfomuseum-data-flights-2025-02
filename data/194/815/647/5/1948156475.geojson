@@ -2,10 +2,12 @@
   "id": 1948156475,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-25",
+    "date:cessation_upper": "2025-02-25",
     "date:inception_lower": "2025-02-25",
     "date:inception_upper": "2025-02-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-25",
+    "edtf:cessation": "2025-02-25T19:52:00Z",
+    "edtf:inception": "2025-02-25T18:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2025-02-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530507,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N873UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,10 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93183912",
+      "swim:gufi": "KO53044300"
+    },
     "wof:country": "US",
     "wof:created": 1740587783,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1948156475,
     "wof:involves": [
+      1159289407,
       102530507,
       102527513,
       1159285413,
       1947304597
     ],
-    "wof:lastmodified": 1740587783,
+    "wof:lastmodified": 1740588117,
     "wof:name": "UA1095 (SFO-RDM)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",
