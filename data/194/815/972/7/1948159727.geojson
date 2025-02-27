@@ -2,10 +2,12 @@
   "id": 1948159727,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-26",
+    "date:cessation_upper": "2025-02-26",
     "date:inception_lower": "2025-02-26",
     "date:inception_upper": "2025-02-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-26",
+    "edtf:cessation": "2025-02-26T17:18:26Z",
+    "edtf:inception": "2025-02-26T08:32:42Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "JL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 8.702347499999995,
     "iata:airline": "JL",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "JAL",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159284563,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20250226-A-AAL-8401",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "JA878J",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1948159727,
     "wof:involves": [
-      102527513,
       102541591,
       1159284563,
       1947304083,
-      1159283849
+      1159283849,
+      1159293215,
+      102527513
     ],
-    "wof:lastmodified": 1740672822,
+    "wof:lastmodified": 1740674459,
     "wof:name": "JL2 (HND-SFO)",
     "wof:parent_id": 1947304083,
     "wof:placetype": "custom",
