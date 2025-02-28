@@ -2,10 +2,12 @@
   "id": 1948172659,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-28",
+    "date:cessation_upper": "2025-02-28",
     "date:inception_lower": "2025-02-27",
     "date:inception_upper": "2025-02-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-27",
+    "edtf:cessation": "2025-02-28T07:59:00Z",
+    "edtf:inception": "2025-02-27T14:57:29-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20250227-D-DLH-7498",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27252",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO20100600"
+    },
     "wof:country": "US",
     "wof:created": 1740760866,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -92,9 +105,10 @@
       102527513,
       1159285413,
       1947304597,
-      1159286015
+      1159286015,
+      1528104575
     ],
-    "wof:lastmodified": 1740760866,
+    "wof:lastmodified": 1740761147,
     "wof:name": "UA2681 (SFO-LAX)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",
