@@ -2,10 +2,12 @@
   "id": 1948180301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2025-02-28",
+    "date:cessation_upper": "2025-02-28",
     "date:inception_lower": "2025-02-28",
     "date:inception_upper": "2025-02-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2025-02-28",
+    "edtf:cessation": "2025-02-28T18:48:23Z",
+    "edtf:inception": "2025-02-28T18:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2025-02-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "SY",
+    "icao:aircraft": "B738",
     "icao:airline": "SCX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285227,
     "sfomuseum:arrival_id": 102527529,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N846SY",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +56,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93555954"
+    },
     "wof:country": "US",
     "wof:created": 1740847030,
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 1948180301,
     "wof:involves": [
+      1159289871,
       102527529,
       102527513,
       1159285227,
       1947304081
     ],
-    "wof:lastmodified": 1740847030,
+    "wof:lastmodified": 1740847473,
     "wof:name": "SY8773 (SFO-SJC)",
     "wof:parent_id": 1947304081,
     "wof:placetype": "custom",
